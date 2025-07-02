@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Name: cargador/CargadorCanciones.class
+Java-Bean: True
