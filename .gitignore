@@ -1,0 +1,27 @@
+# === Java ===
+*.class
+*.jar
+*.war
+*.ear
+
+# === Eclipse ===
+.classpath
+.project
+.settings/
+
+# === Carpetas de compilación ===
+/bin/
+/target/
+/out/
+
+# === Archivos temporales y del sistema ===
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# === Archivos personales / IDE ===
+*.iml
+.idea/
