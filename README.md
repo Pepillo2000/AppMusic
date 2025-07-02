@@ -33,7 +33,7 @@ spotify-clone/
 
 ## 📦 How to Run
 
-1. Open the AppMusic/` folder in Eclipse.
+1. Open the AppMusic/ folder in Eclipse.
 2. Ensure the music database is loaded via the loader tool.
 3. Compile and run the main class (AppMusic/src/main/java/main/Lanzador.java).
 
